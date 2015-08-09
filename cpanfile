@@ -1,3 +1,4 @@
+requires 'Module::Build';
 requires 'Plack';
 requires 'Dancer2';
 requires 'Dancer2::Plugin::DBIC';
