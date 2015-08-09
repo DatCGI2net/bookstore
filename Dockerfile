@@ -5,10 +5,10 @@ MAINTAINER  Dat Truong dat@cgito.net
 RUN curl -L http://cpanmin.us | perl - App::cpanminus
 RUN cpanm Carton Starman
 
-RUN cachebuster=b953b35 git clone http://github.com/robn/towncrier.git
-RUN cd towncrier && carton install --deployment
+RUN cachebuster=d31ec33 git clone https://github.com/DatCGI2net/bookstore.git
+RUN cd bookstore && carton install --deployment
 
 EXPOSE 8080
 
-WORKDIR towncrier
+WORKDIR bookstore
 CMD carton exec starman --port 8080 bin/app.pl
