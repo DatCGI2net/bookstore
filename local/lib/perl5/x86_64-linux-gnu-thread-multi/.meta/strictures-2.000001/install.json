@@ -1,0 +1,1 @@
+{"pathname":"H/HA/HAARG/strictures-2.000001.tar.gz","version":"2.000001","name":"strictures","dist":"strictures-2.000001","provides":{"strictures::extra":{"file":"lib/strictures/extra.pm"},"strictures":{"file":"lib/strictures.pm","version":"2.000001"}},"target":"strictures"}

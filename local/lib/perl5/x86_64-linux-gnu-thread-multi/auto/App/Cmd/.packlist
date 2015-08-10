@@ -1,0 +1,14 @@
+/home/dat/projects/bookstore/local/lib/perl5/App/Cmd.pm
+/home/dat/projects/bookstore/local/lib/perl5/App/Cmd/ArgProcessor.pm
+/home/dat/projects/bookstore/local/lib/perl5/App/Cmd/Command.pm
+/home/dat/projects/bookstore/local/lib/perl5/App/Cmd/Command/commands.pm
+/home/dat/projects/bookstore/local/lib/perl5/App/Cmd/Command/help.pm
+/home/dat/projects/bookstore/local/lib/perl5/App/Cmd/Command/version.pm
+/home/dat/projects/bookstore/local/lib/perl5/App/Cmd/Plugin.pm
+/home/dat/projects/bookstore/local/lib/perl5/App/Cmd/Setup.pm
+/home/dat/projects/bookstore/local/lib/perl5/App/Cmd/Simple.pm
+/home/dat/projects/bookstore/local/lib/perl5/App/Cmd/Subdispatch.pm
+/home/dat/projects/bookstore/local/lib/perl5/App/Cmd/Subdispatch/DashedStyle.pm
+/home/dat/projects/bookstore/local/lib/perl5/App/Cmd/Tester.pm
+/home/dat/projects/bookstore/local/lib/perl5/App/Cmd/Tester/CaptureExternal.pm
+/home/dat/projects/bookstore/local/lib/perl5/App/Cmd/Tutorial.pod

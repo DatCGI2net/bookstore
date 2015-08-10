@@ -1,0 +1,1 @@
+{"name":"DateTime::Format::DateParse","pathname":"J/JH/JHOBLITT/DateTime-Format-DateParse-0.05.tar.gz","version":"0.05","dist":"DateTime-Format-DateParse-0.05","provides":{"DateTime::Format::DateParse":{"file":"lib/DateTime/Format/DateParse.pm","version":"0.05"}},"target":"DateTime::Format::DateParse"}
