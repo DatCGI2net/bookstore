@@ -4,4 +4,5 @@ requires 'DBD::SQLite';
 requires 'Template';
 requires 'FindBin';
 requires 'DBIx::Class';
+requires 'SQL::Translator';
 
