@@ -5,4 +5,5 @@ requires 'Template';
 requires 'FindBin';
 requires 'DBIx::Class';
 requires 'SQL::Translator';
+requires 'Params::Util';
 
