@@ -5,7 +5,7 @@ MAINTAINER  Dat Truong dat@cgito.net
 RUN curl -L http://cpanmin.us | perl - App::cpanminus
 RUN cpanm Carton Starman
 
-RUN cachebuster=e63e17f git clone https://github.com/DatCGI2net/bookstore.git
+RUN cachebuster=69d1c84 git clone https://github.com/DatCGI2net/bookstore.git
 RUN cd bookstore && carton install --deployment
 
 EXPOSE 8080

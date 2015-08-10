@@ -6,4 +6,6 @@ requires 'FindBin';
 requires 'DBIx::Class';
 requires 'SQL::Translator';
 requires 'Params::Util';
+requires 'Sub::Name';
+
 
